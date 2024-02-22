@@ -19,4 +19,4 @@ disini saya menggunakan OS windows, jadi untuk export pdf (Laravel Snappy) nya h
 
 https://wkhtmltopdf.org/downloads.html
 
-Untuk data excel yang akan diimport saya masukan pada root folder
+Untuk data excel yang akan diimport saya masukan pada root folder, file bernama companies_helper.xlsx dan employess_helper.xlsx
